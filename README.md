@@ -25,7 +25,7 @@ This project implements a simple command-line interface (CLI) for controlling a 
    python satellite.py
 
 
-## ependencies
+## Dependencies
 Python 3.x
 Logging module (for error logging)
 
