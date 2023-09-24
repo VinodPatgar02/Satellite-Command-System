@@ -22,14 +22,14 @@ This project implements a simple command-line interface (CLI) for controlling a 
    git clone https://github.com/your-username/satellite-command-system.git
 
 2. Run this program:
-python satellite.py
+   python satellite.py
 
 
-3. Dependencies
+## ependencies
 Python 3.x
 Logging module (for error logging)
 
-4. Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 * Fork the repository.
@@ -38,9 +38,9 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 * Push to the branch: git push origin feature-name
 * Submit a pull request.
 
-5. License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-6. Acknowledgments
+## Acknowledgments
 This project was inspired by a coding exercise.
 Thanks to the Python community for their valuable resources and contributions
