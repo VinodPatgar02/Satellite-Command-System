@@ -22,8 +22,8 @@ This project implements a simple command-line interface (CLI) for controlling a 
    git clone https://github.com/your-username/satellite-command-system.git
 
 2. Run the program:
+   python satellite.py
 
-python satellite.py
 Follow the on-screen prompts to interact with the simulated satellite.
 
 3. Dependencies
